@@ -1,0 +1,3622 @@
+[
+  {
+    "bairro": "Adriana Parque",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Aldeia Dos Sonhos",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Alfredo Abrahao Inferior",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Alfredo Abrahao Superior",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Alphavile",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Alto Da Bela Vista",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Anapolis City",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Segunda-Feira"
+      ],
+      "turno": "MATUTINO",
+      "periodicidade": "SEMANAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Anaville",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Andracel Center",
+    "coleta_domiciliar": {
+      "dias": [
+        "Todos os dias"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Anexo Bom Sucesso",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Anexo Itamaraty",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Antonio Fernandes",
+    "coleta_domiciliar": {
+      "dias": [
+        "Todos os dias"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Quinta-Feira"
+      ],
+      "turno": "MATUTINO",
+      "periodicidade": "SEMANAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Arco Iris",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Ayrton Senna",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Quinta-Feira"
+      ],
+      "turno": "MATUTINO",
+      "periodicidade": "SEMANAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Bairro De Loudes",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Bandeiras",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Base Aerea",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Boa Vista",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Bougainville",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Br 153",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Branapolis Quinta E Sabado",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Calixtolandia",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Campos Elisios",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Centro",
+    "coleta_domiciliar": {
+      "dias": [
+        "Todos os dias"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Cerejeira",
+    "coleta_domiciliar": {
+      "dias": [
+        "Todos os dias"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Chacaras Americanas",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Chacaras E Sitios",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Cidade Jardim",
+    "coleta_domiciliar": {
+      "dias": [
+        "Todos os dias"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Terça-Feira"
+      ],
+      "turno": "MATUTINO",
+      "periodicidade": "SEMANAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Conj Hab Esperanca Ii",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Conj Hab Vila Uniao",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Conj Iapc",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Daia",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Eldorado",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Feiras",
+    "coleta_domiciliar": {
+      "dias": [
+        "Domingo"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Filostro",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Flamboyant",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Frei Eustaquio",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Sexta-Feira"
+      ],
+      "turno": "MATUTINO",
+      "periodicidade": "QUINZENAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Geovanni Braga",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Goialandia",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Gran Ville",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Granjas Santo Antonio",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Segunda-Feira"
+      ],
+      "turno": "VESPERTINO",
+      "periodicidade": "QUINZENAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Interlandia",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Itamaraty",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Itamaraty 2 Etapa E 3 Etapa",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Itororo",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Alexandrina",
+    "coleta_domiciliar": {
+      "dias": [
+        "Todos os dias"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Alvorada",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Segunda-Feira"
+      ],
+      "turno": "VESPERTINO",
+      "periodicidade": "QUINZENAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim America",
+    "coleta_domiciliar": {
+      "dias": [
+        "Todos os dias"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Quarta-Feira"
+      ],
+      "turno": "MATUTINO",
+      "periodicidade": "SEMANAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Ana Paula",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Terça-Feira"
+      ],
+      "turno": "MATUTINO",
+      "periodicidade": "SEMANAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Arco Verde",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Quarta-Feira"
+      ],
+      "turno": "VESPERTINO",
+      "periodicidade": "SEMANAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Arco Verde 2 Etapa",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Bandeirante",
+    "coleta_domiciliar": {
+      "dias": [
+        "Todos os dias"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Bela Vista",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Bom Clima",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Sexta-Feira"
+      ],
+      "turno": "VESPERTINO",
+      "periodicidade": "QUINZENAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Calixto",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Terça-Feira"
+      ],
+      "turno": "VESPERTINO",
+      "periodicidade": "QUINZENAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Das Americas 1 E 2 Etapas",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Das Americas 3 Etapa",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Das Oliveiras",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Segunda-Feira"
+      ],
+      "turno": "VESPERTINO",
+      "periodicidade": "SEMANAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Dos Ipes Inferior",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Dos Ipes Superior",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Eldorado",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Esperanca",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Europa",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Terça-Feira"
+      ],
+      "turno": "MATUTINO",
+      "periodicidade": "SEMANAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Flor De Liz",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Ibirapuera",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Italia",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Luzitano",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Nacoes Unidas",
+    "coleta_domiciliar": {
+      "dias": [
+        "Todos os dias"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Peixoto",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Petropolis",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Segunda-Feira"
+      ],
+      "turno": "VESPERTINO",
+      "periodicidade": "SEMANAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Primavera 1 E 2 Etapa",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Promissao",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Promissao Inferior",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Santa Cecilia",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Santana",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Quarta-Feira"
+      ],
+      "turno": "VESPERTINO",
+      "periodicidade": "SEMANAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Sao Paulo",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Suico",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Tesouro",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Segunda-Feira"
+      ],
+      "turno": "VESPERTINO",
+      "periodicidade": "QUINZENAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardim Vera Cruz",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jardins Do Lago",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jibran El Hadj",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jk Nova Capital",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Joanapolis",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Joao Luiz De Oliveira",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Jundiai",
+    "coleta_domiciliar": {
+      "dias": [
+        "Todos os dias"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Segunda-Feira"
+      ],
+      "turno": "MATUTINO",
+      "periodicidade": "SEMANAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Lapa",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Las Palmas",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Leblon",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Lot Guanabara",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Lot Residencial America",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Mansoes Do Lago",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Maracana",
+    "coleta_domiciliar": {
+      "dias": [
+        "Todos os dias"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Maracananzinho",
+    "coleta_domiciliar": {
+      "dias": [
+        "Todos os dias"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Maria Cristina",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Mirage Vila Dos Oficiais",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Monte Sinai",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Munir Calixto",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Nova Alexandrina",
+    "coleta_domiciliar": {
+      "dias": [
+        "Todos os dias"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Nova Vila Jaiara",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Novo Jundiai",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Terça-Feira"
+      ],
+      "turno": "MATUTINO",
+      "periodicidade": "SEMANAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Novo Paraiso",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Paraiso Inferior",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Paraiso Superior",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Parque Brasilia",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Sexta-Feira"
+      ],
+      "turno": "MATUTINO",
+      "periodicidade": "SEMANAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Parque Calixtopolis",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Terça-Feira"
+      ],
+      "turno": "VESPERTINO",
+      "periodicidade": "QUINZENAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Parque Das Nacoes",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Parque Das Primaveras",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Parque Dos Pirineus",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Parque Iracema",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Quinta-Feira"
+      ],
+      "turno": "VESPERTINO",
+      "periodicidade": "QUINZENAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Parque Residencial Das Flores",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Parque Sao Jeronimo",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Sexta-Feira"
+      ],
+      "turno": "MATUTINO",
+      "periodicidade": "SEMANAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Parque Sao Joao",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Polocentro",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Polocentro 1 E 2 Etapa",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Portal Do Cerrado",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Porto Seco",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Progresso",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Recanto Do Sol",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Ana Caroline",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Ander",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Araguaia",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Sexta-Feira"
+      ],
+      "turno": "VESPERTINO",
+      "periodicidade": "QUINZENAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Boa Esperanca",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Centenario",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Cidade Industrial",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Copacabana Parte De Baixo",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Copacabana Parte De Cima",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Das Rosas",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Do Cerrado",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Do Trabalhador",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Dom Emanoel",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Dom Felipe",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Flor Do Cerrado 1 Etapa",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Florenca",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Gabriela",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Girassol",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Ipanema",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Monica Braga",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Segunda-Feira"
+      ],
+      "turno": "VESPERTINO",
+      "periodicidade": "SEMANAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Morumbi",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Nova Alianca",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Palmeiras",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Paris",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Reny Cury",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Segunda-Feira"
+      ],
+      "turno": "VESPERTINO",
+      "periodicidade": "QUINZENAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Rio Jordao",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Terezinha Braga",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Segunda-Feira"
+      ],
+      "turno": "VESPERTINO",
+      "periodicidade": "SEMANAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Vale Do Sol",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Valencia",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Veneza",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Sexta-Feira"
+      ],
+      "turno": "VESPERTINO",
+      "periodicidade": "QUINZENAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Verona",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Sexta-Feira"
+      ],
+      "turno": "VESPERTINO",
+      "periodicidade": "QUINZENAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Vila Feliz",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Residencial Vila Nova",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Santa Isabel",
+    "coleta_domiciliar": {
+      "dias": [
+        "Todos os dias"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Santa Isabel 2 Etapa",
+    "coleta_domiciliar": {
+      "dias": [
+        "Todos os dias"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Quinta-Feira"
+      ],
+      "turno": "MATUTINO",
+      "periodicidade": "SEMANAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Santa Maria De Nazareth",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Terça",
+        "Quarta",
+        "Quinta",
+        "Sábado",
+        "Sexta-Feira"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Santo Andre",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Santo Antonio",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Santo Expedito",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Santos Dumont",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Sao Carlos",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Sao Cristovao",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Sao Joao",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Sao Lourenco",
+    "coleta_domiciliar": {
+      "dias": [
+        "Todos os dias"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Sao Sebastiao",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Sao Vicente",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Setor Escala",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Setor Largo Dos Buritis Miranapolis Quarta Feira",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Setor Residencial Jandaia",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Setor Residencial Pedro Ludovico",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Setor Santa Clara",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Setor Sul",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Setor Sul 2 E 3 Etapa",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Setor Sul Jamil Miguel",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira",
+        "Todos os dias"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Setor Sul Jamil Miguel 1 E 2 Etapa",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Setor Tropical",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Quarta-Feira"
+      ],
+      "turno": "VESPERTINO",
+      "periodicidade": "SEMANAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Shangrila",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Sousania",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Summer Ville",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Summerville",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Sunflower",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Terça",
+        "Quarta",
+        "Quinta",
+        "Sábado",
+        "Sexta-Feira"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Tangara",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Terras Alphaville",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Vale Das Brisas",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Vale Das Laranjeiras",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Vale Dos Pirineus",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Vila Brasil",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Segunda-Feira"
+      ],
+      "turno": "VESPERTINO",
+      "periodicidade": "SEMANAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Vila Calixto Abrao",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Vila Das Acacias",
+    "coleta_domiciliar": {
+      "dias": [
+        "Todos os dias"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Vila De Lourdes",
+    "coleta_domiciliar": {
+      "dias": [
+        "Todos os dias"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Vila Dom Bosco",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Vila Dos Sargentos",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Vila Fabril",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Segunda-Feira"
+      ],
+      "turno": "VESPERTINO",
+      "periodicidade": "SEMANAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Vila Feliz",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Vila Formosa",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Vila Gois",
+    "coleta_domiciliar": {
+      "dias": [
+        "Todos os dias"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Quinta-Feira"
+      ],
+      "turno": "MATUTINO",
+      "periodicidade": "SEMANAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Vila Goncalves",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Vila Harmonia",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Quinta-Feira"
+      ],
+      "turno": "VESPERTINO",
+      "periodicidade": "SEMANAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Vila Industrial",
+    "coleta_domiciliar": {
+      "dias": [
+        "Todos os dias"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Vila Jaiara",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Vila Joao Xxiii",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Vila Jussara",
+    "coleta_domiciliar": {
+      "dias": [
+        "Todos os dias"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Terça-Feira"
+      ],
+      "turno": "MATUTINO",
+      "periodicidade": "SEMANAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Vila Mariana",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Terça-Feira"
+      ],
+      "turno": "VESPERTINO",
+      "periodicidade": "QUINZENAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Vila Norte",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Vila Nsa Dabadia",
+    "coleta_domiciliar": {
+      "dias": [
+        "Todos os dias"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Vila Santa Terezinha",
+    "coleta_domiciliar": {
+      "dias": [
+        "Todos os dias"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Vila Santana",
+    "coleta_domiciliar": {
+      "dias": [
+        "Todos os dias"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [
+        "Segunda-Feira"
+      ],
+      "turno": "MATUTINO",
+      "periodicidade": "SEMANAL"
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Vila Sao Jorge",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Vila Verde",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Villa Bella",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Villa Lobos",
+    "coleta_domiciliar": {
+      "dias": [
+        "Terça",
+        "Quinta",
+        "Sábado"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Village Jardim",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "NOTURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Vivan Parque 2 Etapa Superior",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  },
+  {
+    "bairro": "Vivian Parque",
+    "coleta_domiciliar": {
+      "dias": [
+        "Segunda",
+        "Quarta",
+        "Sexta-Feira"
+      ],
+      "turno": "DIURNO"
+    },
+    "coleta_seletiva": {
+      "dias": [],
+      "turno": null,
+      "periodicidade": null
+    },
+    "observacoes": ""
+  }
+]
